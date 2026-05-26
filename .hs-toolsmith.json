@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "gh-activity-nullcheck",
+  "pitch": "Detect missing GitHub activity signals and explain likely configuration or visibility causes.",
+  "language": "python",
+  "category": "Analytics",
+  "keyFeatures": [
+    "Heuristics for private-repo and org-visibility scenarios",
+    "Confidence-scored explanations and remediation hints",
+    "Batch processing for lists of usernames",
+    "Export to CSV/JSON for downstream systems"
+  ],
+  "targetUsers": "Engineering managers and recruiters automating candidate/contractor GitHub activity checks without false negatives."
+}
